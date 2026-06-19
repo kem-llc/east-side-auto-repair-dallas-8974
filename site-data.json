@@ -2,315 +2,312 @@
   "business": {
     "name": "East Side Auto Repair",
     "shortName": "East Side Auto",
-    "tagline": "Reliable, honest auto repair in Dallas since 2005.",
+    "tagline": "Your trusted local auto repair shop in Dallas, TX.",
     "niche": "Auto Mechanic",
     "phone": "(469) 508-8974",
     "address": "4210 Eastside Ave, Dallas, TX 75226",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7am-6pm, Sat: 8am-2pm",
-    "ctaLabel": "Schedule Appointment",
+    "hours": "Mon-Fri 7:30 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "East Side Auto Repair | Trusted Dallas Auto Mechanic | (469) 508-8974",
-    "description": "East Side Auto Repair in Dallas, TX offers expert auto repair and maintenance. Honest service, certified mechanics, and fair prices. Call (469) 508-8974 today!"
+    "title": "East Side Auto Repair | Expert Auto Mechanic in Dallas, TX",
+    "description": "East Side Auto Repair in Dallas, TX offers professional auto repair and maintenance. Call (469) 508-8974 for reliable service from expert mechanics."
   },
   "home": {
     "hero": {
-      "eyebrow": "Trusted Dallas Auto Repair",
-      "headline": "Expert Auto Repair You Can Rely On",
-      "subheadline": "From routine maintenance to major repairs, our certified mechanics deliver quality workmanship and transparent service. We keep your car running safely and smoothly.",
+      "eyebrow": "Dallas' Trusted Auto Repair Experts",
+      "headline": "Reliable Auto Repair in Dallas, TX",
+      "subheadline": "Expert mechanics, transparent pricing, and fast turnaround. Your car is in safe hands.",
       "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (469) 508-8974"
     },
     "stats": [
       {
-        "value": "18+",
-        "label": "Years of Experience"
-      },
-      {
-        "value": "5,000+",
-        "label": "Cars Repaired"
-      },
-      {
         "value": "4.5",
-        "label": "Average Rating"
+        "label": "Star Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Cars Serviced Monthly"
       },
       {
         "value": "100%",
-        "label": "Satisfaction Guarantee"
+        "label": "Customer Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Care",
-        "title": "Full-Service Auto Repair & Maintenance",
-        "body": "We handle everything from oil changes and brake repairs to engine diagnostics and transmission work. Our state-of-the-art equipment and ASE-certified technicians ensure your vehicle gets the care it deserves.",
+        "eyebrow": "Quality Service",
+        "title": "Professional Auto Repair & Maintenance",
+        "body": "From routine oil changes to complex engine repairs, our ASE-certified mechanics handle it all with precision and care.",
         "bullets": [
-          "Oil changes, tire rotations, and fluid checks",
-          "Brake repair and replacement",
-          "Engine diagnostics and performance tuning",
-          "Transmission and drivetrain services"
+          "State-of-the-art diagnostic equipment",
+          "Genuine and OEM parts used",
+          "Warranty on all repairs"
         ],
         "reverse": false,
-        "cardLabel": "Expertise",
-        "cardTitle": "Certified Technicians",
-        "cardBody": "Every technician at East Side Auto Repair is ASE-certified and undergoes continuous training to stay current with the latest automotive technology."
+        "cardLabel": "Special Offer",
+        "cardTitle": "Free Multi-Point Inspection",
+        "cardBody": "Bring your car in for any service and receive a complimentary 30-point inspection."
       },
       {
-        "eyebrow": "Transparent Process",
-        "title": "Honest, Upfront Service",
-        "body": "We believe in clear communication and fair pricing. Before any work begins, we provide a detailed estimate and explain all necessary repairs. No surprises, no hidden fees.",
+        "eyebrow": "Customer Focused",
+        "title": "Transparent & Honest Service",
+        "body": "We believe in clear communication and fair pricing. No hidden fees, no upsells—just honest advice.",
         "bullets": [
-          "Free multi-point inspections",
-          "Written estimates with itemized costs",
-          "Real-time updates on repair progress",
-          "Warranty on parts and labor"
+          "Detailed estimates before work begins",
+          "Digital inspection reports with photos",
+          "Shuttle service available"
         ],
         "reverse": true,
-        "cardLabel": "Trust",
-        "cardTitle": "Customer Peace of Mind",
-        "cardBody": "We treat every car as if it were our own. Our commitment to honesty has earned us a loyal customer base across Dallas."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Same-Day Service Most Repairs",
+        "cardBody": "We respect your time. Most maintenance and repairs are completed the same day."
       }
     ],
     "whyTitle": "Why Choose East Side Auto Repair?",
     "whyChooseUs": [
       {
-        "title": "Experienced & Certified",
-        "description": "Our ASE-certified mechanics have over 18 years of combined experience servicing all makes and models."
+        "title": "Experienced Mechanics",
+        "description": "Our team has over 15 years of combined experience serving Dallas drivers."
       },
       {
         "title": "Fair & Transparent Pricing",
-        "description": "We provide upfront estimates and competitive rates. No hidden charges, no upsells."
+        "description": "We provide upfront estimates with no surprise charges."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most services are completed the same day. We respect your time and get you back on the road quickly."
+        "description": "We get you back on the road quickly without sacrificing quality."
       },
       {
-        "title": "Warranty on Repairs",
-        "description": "We stand behind our work with a comprehensive warranty on parts and labor for your peace of mind."
+        "title": "Customer Satisfaction",
+        "description": "We stand behind our work with a 100% satisfaction guarantee."
       }
     ],
     "testimonials": [
       {
-        "quote": "East Side Auto Repair is the most honest mechanic I've ever used. They explained everything clearly and the price was fair. My car runs great!",
-        "author": "Michael T.",
+        "quote": "East Side Auto Repair is the best mechanic I've found in Dallas. They explained everything clearly and the price was fair.",
+        "author": "Sarah M.",
         "role": "Lakewood resident"
       },
       {
-        "quote": "I brought my SUV in for a strange noise, and they diagnosed it quickly. The repair was done on time and under budget. Highly recommend!",
-        "author": "Laura K.",
-        "role": "Deep Ellum commuter"
+        "quote": "I brought my SUV in for a check engine light and they diagnosed it in minutes. Fast, friendly, and affordable.",
+        "author": "James T.",
+        "role": "White Rock area driver"
       },
       {
-        "quote": "Finally found a mechanic I can trust. They don't try to sell you things you don't need. Great service and friendly staff.",
-        "author": "David R.",
+        "quote": "Honest and reliable. They could have charged me for unnecessary work but didn't. I trust them completely.",
+        "author": "Maria L.",
         "role": "East Dallas homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready for Reliable Auto Repair?",
-      "subheadline": "Schedule your appointment today and experience the East Side difference.",
-      "primaryCta": "Book Now",
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Call us or book online today. We're here to help.",
+      "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (469) 508-8974"
     }
   },
   "servicesPage": {
-    "intro": "At East Side Auto Repair, we offer a full range of automotive services designed to keep your vehicle running at its best. From routine maintenance to complex repairs, our skilled technicians use the latest tools and techniques to deliver quality results every time."
+    "intro": "At East Side Auto Repair, we offer a full range of auto repair and maintenance services for all makes and models. Our expert mechanics use the latest technology to keep your vehicle running smoothly."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Oil Change & Fluid Services",
-      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
-      "longDescription": "Regular oil changes are the most important maintenance for your vehicle. We use premium oils and filters to protect your engine, improve performance, and extend its life. Our fluid services include coolant, brake fluid, transmission fluid, and power steering fluid checks and replacements.",
-      "benefits": [
-        "Extends engine life and improves fuel economy",
-        "Prevents costly engine damage",
-        "Quick 30-minute service",
-        "Includes multi-point inspection"
-      ],
-      "process": [
-        {
-          "title": "Inspection",
-          "description": "We check your current oil level, condition, and all other fluid levels."
-        },
-        {
-          "title": "Drain & Replace",
-          "description": "We drain old oil, replace the filter, and fill with the manufacturer-recommended oil."
-        },
-        {
-          "title": "Final Check",
-          "description": "We top off all fluids, reset your oil life monitor, and provide a full inspection report."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I get an oil change?",
-          "answer": "Most vehicles need an oil change every 5,000 to 7,500 miles, but check your owner's manual for specific recommendations."
-        },
-        {
-          "question": "What type of oil do you use?",
-          "answer": "We use high-quality synthetic and conventional oils that meet or exceed manufacturer specifications."
-        }
-      ],
-      "slug": "oil-change-fluid-services"
-    },
-    {
-      "icon": "02",
-      "title": "Brake Repair & Replacement",
-      "shortDescription": "Expert brake services for safe, confident stopping.",
-      "longDescription": "Your brakes are your vehicle's most critical safety system. Our technicians inspect pads, rotors, calipers, and brake lines to ensure optimal performance. We use quality parts and precision tools to restore your braking system to factory standards.",
-      "benefits": [
-        "Enhanced safety and stopping power",
-        "Reduced noise and vibration",
-        "Wear-and-tear inspection included",
-        "Warranty on all brake parts"
-      ],
-      "process": [
-        {
-          "title": "Comprehensive Inspection",
-          "description": "We measure pad thickness, rotor condition, and check for leaks or wear."
-        },
-        {
-          "title": "Precision Service",
-          "description": "We replace worn components and resurface or replace rotors as needed."
-        },
-        {
-          "title": "Road Test",
-          "description": "We test your brakes on the road to ensure proper function and no unusual noises."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How do I know if my brakes need service?",
-          "answer": "Common signs include squealing or grinding noises, a soft brake pedal, or longer stopping distances."
-        },
-        {
-          "question": "How long does a brake job take?",
-          "answer": "Most brake repairs are completed within 2-3 hours, depending on the extent of the work."
-        }
-      ],
-      "slug": "brake-repair-replacement"
-    },
-    {
-      "icon": "03",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert engine repairs to restore performance.",
-      "longDescription": "When your check engine light comes on or your vehicle runs rough, our advanced diagnostic tools pinpoint the issue quickly. From sensor replacements to major engine repairs, we provide thorough solutions that get your car back to peak performance.",
+      "shortDescription": "Expert engine diagnostics and repair using advanced equipment.",
+      "longDescription": "Our ASE-certified technicians perform thorough engine diagnostics to identify issues accurately. From check engine lights to major repairs, we restore performance and reliability.",
       "benefits": [
-        "Fast, accurate diagnosis",
-        "Transparent explanation of findings",
-        "Quality OEM and aftermarket parts",
-        "Warranty on all repairs"
+        "Accurate diagnostics using OEM-level scanners",
+        "Comprehensive repair options from minor to major",
+        "Improved fuel efficiency and performance",
+        "Warranty on all engine repairs"
       ],
       "process": [
         {
-          "title": "Computer Scan",
-          "description": "We use professional-grade scanners to read trouble codes and identify potential problems."
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and assess performance."
         },
         {
-          "title": "System Testing",
-          "description": "We perform additional tests on components like fuel, ignition, and emissions systems."
+          "title": "Detailed Explanation",
+          "description": "We review findings with you, explain the issue, and provide a clear estimate."
         },
         {
-          "title": "Repair & Verify",
-          "description": "After repair, we clear codes and test drive to confirm the issue is resolved."
+          "title": "Expert Repair",
+          "description": "Our mechanics perform the repair using quality parts, then test drive to confirm the fix."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my check engine light on?",
-          "answer": "It could be a minor issue like a loose gas cap or something more serious. We'll diagnose it for you."
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics take about 30 minutes to an hour, depending on the complexity."
         },
         {
-          "question": "Can you fix any engine problem?",
-          "answer": "We handle most engine repairs, from sensors to internal components. If a specialist is needed, we'll refer you."
+          "question": "Do you work on all car makes?",
+          "answer": "Yes, we service all domestic and foreign vehicles."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "04",
-      "title": "Transmission Services",
-      "shortDescription": "Keep your transmission shifting smoothly with our expert care.",
-      "longDescription": "Transmission problems can be complex and costly. Our technicians are trained to service both automatic and manual transmissions, including fluid changes, filter replacements, and full rebuilds. Early maintenance can prevent major failures and extend transmission life.",
+      "icon": "02",
+      "title": "Brake Services",
+      "shortDescription": "Complete brake inspection, repair, and replacement.",
+      "longDescription": "Your safety is our priority. We inspect pads, rotors, calipers, and fluid to ensure your brakes are responsive and reliable.",
       "benefits": [
-        "Smoother shifting and improved performance",
-        "Prevents costly transmission failure",
-        "Fluid flush and filter service available",
-        "Competitive pricing on rebuilds"
+        "Thorough brake inspection included",
+        "High-quality pads and rotors for long life",
+        "No squeaking or vibration after service",
+        "Competitive pricing with no hidden fees"
       ],
       "process": [
         {
-          "title": "Fluid Check",
-          "description": "We inspect fluid level, color, and smell to assess condition."
+          "title": "Brake Inspection",
+          "description": "We check pad thickness, rotor condition, and fluid levels."
         },
         {
-          "title": "Service",
-          "description": "We drain old fluid, replace the filter, and refill with fresh fluid."
+          "title": "Recommendation",
+          "description": "We show you the condition and recommend necessary repairs."
         },
         {
-          "title": "Road Test",
-          "description": "We test drive to ensure smooth shifting and no leaks."
+          "title": "Installation & Test",
+          "description": "We install new parts and test the brakes for optimal performance."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I service my transmission?",
-          "answer": "Most manufacturers recommend a transmission fluid change every 30,000 to 60,000 miles."
+          "question": "How often should I replace my brakes?",
+          "answer": "Typically every 30,000 to 50,000 miles, but it depends on driving habits."
         },
         {
-          "question": "What are signs of transmission trouble?",
-          "answer": "Delayed shifting, slipping gears, unusual noises, or fluid leaks are common indicators."
+          "question": "Do you offer brake pad warranties?",
+          "answer": "Yes, we warranty our brake pads and labor for your peace of mind."
         }
       ],
-      "slug": "transmission-services"
+      "slug": "brake-services"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Changes & Routine Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes and maintenance.",
+      "longDescription": "Regular oil changes are vital for engine longevity. We use quality oils and filters, and also perform multi-point inspections to catch issues early.",
+      "benefits": [
+        "Extends engine life",
+        "Improves fuel economy",
+        "Includes free fluid top-offs",
+        "Quick 30-minute service"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the filter."
+        },
+        {
+          "title": "Add Fresh Oil",
+          "description": "We add the correct grade and amount of oil for your vehicle."
+        },
+        {
+          "title": "Multi-Point Check",
+          "description": "We inspect belts, hoses, lights, and tire pressure."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We use conventional and synthetic blends based on your manufacturer's recommendation."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Every 3,000 to 5,000 miles for conventional oil, up to 7,500 for synthetic."
+        }
+      ],
+      "slug": "oil-changes-routine-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
+      "longDescription": "From weak airflow to no cold air, we diagnose and repair your vehicle's HVAC system quickly. We service all makes and models.",
+      "benefits": [
+        "Restores comfort in all seasons",
+        "Eliminates unpleasant odors",
+        "Improves defroster performance",
+        "Affordable repairs with warranty"
+      ],
+      "process": [
+        {
+          "title": "System Diagnosis",
+          "description": "We check refrigerant levels, compressor function, and electrical components."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "We locate any leaks using UV dye or electronic detectors."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We fix the issue and recharge the system to manufacturer specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak."
+        },
+        {
+          "question": "How long does an AC repair take?",
+          "answer": "Most repairs are completed within 2-3 hours."
+        }
+      ],
+      "slug": "ac-heating-repair"
     }
   ],
   "about": {
-    "headline": "Your Trusted Dallas Auto Repair Shop",
-    "mission": "To provide honest, high-quality auto repair services that keep our customers safe and satisfied. We believe in transparency, integrity, and exceptional workmanship.",
+    "headline": "Your Local Auto Repair Experts in Dallas",
+    "mission": "To provide honest, high-quality auto repair with exceptional customer service.",
     "story": [
-      "East Side Auto Repair was founded in 2005 with a simple mission: offer reliable, honest auto repair to the Dallas community. What started as a small two-bay shop has grown into a full-service facility serving thousands of customers. Our team of ASE-certified technicians shares a passion for cars and a commitment to doing the job right the first time.",
-      "Over the years, we've earned a reputation for fair pricing and clear communication. We don't believe in upselling unnecessary repairs or cutting corners. Every vehicle that leaves our shop is backed by our warranty and our promise. We're proud to be a local business that treats every customer like a neighbor."
+      "East Side Auto Repair was founded with a simple mission: offer reliable auto repair without the hassle. Our team of experienced mechanics has been serving the Dallas community for over 15 years, building a reputation for honesty and quality work.",
+      "We understand that car trouble is stressful. That's why we prioritize clear communication, fair pricing, and fast turnaround. Whether it's a simple oil change or a complex engine repair, we treat every car as if it were our own."
     ],
     "highlight": {
-      "stat": "18+",
-      "label": "Years Serving Dallas"
+      "stat": "15+",
+      "label": "Years of Trusted Service"
     },
     "coreValues": [
       {
-        "title": "Honesty",
-        "description": "We never recommend repairs you don't need. Our estimates are transparent and accurate."
+        "title": "Integrity",
+        "description": "We never recommend unnecessary repairs."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and tools, and our work is guaranteed."
+        "description": "We use only top-quality parts and tools."
       },
       {
         "title": "Respect",
-        "description": "We treat your time and budget with respect, completing work on schedule and within estimate."
+        "description": "We treat every customer with courtesy and transparency."
       },
       {
         "title": "Community",
-        "description": "We support local Dallas events and charities, giving back to the community that supports us."
+        "description": "We are proud to serve and support our local Dallas community."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Ready to schedule your next service? Call or stop by today.",
+    "headline": "Get In Touch",
+    "subheadline": "We're here to answer your questions and schedule your appointment.",
     "primaryCta": "Call (469) 508-8974",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "East Dallas",
       "Lakewood",
-      "Deep Ellum",
       "White Rock",
-      "Casa View"
+      "Old East Dallas"
     ]
   },
   "social_proof": {
